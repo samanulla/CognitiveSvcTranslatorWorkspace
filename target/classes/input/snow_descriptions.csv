@@ -1,0 +1,165 @@
+Worked with IT-voice, Networking, and wireless vendor to get this all setup. Installed apple tv and configured port with the help of networking. Apple TV is fully functional now.|de,es,ja
+What was area of impact? (e.g. Global, Site, Floor, or User)User What service was impacted? (e.g. Firewall, Network, or Wireless)Network What was the duration of the issue?n/a Was there a fail-over?  n/a Did service fail-over as expected?n/a How was this issue resolved? No response from user.|de,es,ja
+went to settings and enabled sync contact|de,es,ja
+Went through the steps of setting the email on the native Apple app. All set, Lyndon!|de,es,ja
+went through password change and met all requirements resolved|de,es,ja
+Went over to servicenow.okta.com and the begin setup was prompted when logged in Okta. All set, Christopher! Thank you for calling in.|de,es,ja
+went into self service and removed keychains. resend RSA token to user.|de,es,ja
+was using FF ESR but no issues with chrome. This my be Browser related. Everardo will utilize regualy FF for Hi and Data and ESR for Fed ramp.|de,es,ja
+was set to extend set to duplicate resolved|de,es,ja
+Was able to connect to mac mini just fine using 10.53.31.41 just fine. Sent user an email explaining how to remote in.|de,es,ja
+Walked user thru changing AD password successfully. - Walked user thru manually changing HI password successfully. - Confirmed user was able to login to all necessary apps.|de,es,ja
+Walked him through updating his AD password AD password has been changed|de,es,ja
+VM had been rejoined to the domain he is now able to login|de,es,ja
+Verizon calling with Kiron on the line to advise that data service has reached the threshold and no service available on mifi. - Got ahold of Katia and she will release the block via the portal. - Advised Brandy with Verizon to let user know and to call us direct if no service within 5 to 10 minutes.|de,es,ja
+Verified/confirmed correct provisioning of Allan's mobile line through AT&T portal/international support rep. Issue appears to have resolved itself|de,es,ja
+Verified user reset PIN. Resolving incident.|de,es,ja
+Verified the info Gave the BitLocker key and she was able to get logged in|de,es,ja
+verified that caller successfully completed the SAIF SIM Welcome Video.  The system recorded a completion on 29-JUN-2017, the overall completion status has been updated.|de,es,ja
+verified IP, the ip was correct|de,es,ja
+Verified info and reset OKTA MFA|de,es,ja
+Verified his Info and reset his password Verified that his new password was working to pull down email|de,es,ja
+verified account and confirmed successful password change|de,es,ja
+User was removed and readded to her team.|de,es,ja
+User was on NOW-Guest but had not accepted terms, accepted terms but unable to login due to password expired. Launched Enterprise Connect, got error connecting to org network. Could not find computer object in AD, attempted to run rebind script from self service but failed to launch. Restarted computer, ran rebind script from self service successfully. User changed password and logged into Outlook and wifi successfully.|de,es,ja
+User was logging into Okta and referred to it as VPN. - Advised it was not VPN and showed her how to connect. - VPN'd in and tried to change password but getting server not available message. - Unbound and re-bound machine. - Confirmed successful AD password change.|de,es,ja
+User was locked out, unlocked her account via AD|de,es,ja
+user was able to log into userbackup synced password by connecting to corpvpn and login into terminal enabled users account in firevault logged out of user back up user was able to log into his account blew up keychains user was able to log back in|de,es,ja
+user walk in to IT Desk and assisted user in Jabber troubleshooting reset and delete cache Unified Communication folder issue has been resolved |de,es,ja
+we set this up yesterday, and avoided Outlook. This was successful|de,es,ja
+We do not have access to give user permission. She will follow up with systems team |de,es,ja
+Wasn't able to enable account as he has been disabled from HR.  User will circle back with his manager to make sure the requests are in with HR and workday.|de,es,ja
+was able to pry out dongle|de,es,ja
+was able to login to machine after 30 mins|de,es,ja
+was able to login after coming to TL|de,es,ja
+Was able to install, all folders up to date.|de,es,ja
+verified with Theresa, outlook started syncing calendar|de,es,ja
+verified with Allison, she's able to login to jabber on iphone now issue was related to outage.|de,es,ja
+Users must select United States of America|de,es,ja
+User's AD account was locked.  Unlocked and confirmed user was able to login as usual. - Also walked user thru deleting email account in Outlook on his mobile device and setting it up again using the Bitglass server.  Confirmed he was able to login with no issue. - Although O365 doesn't show a Bitglass device, he, in fact, did login using the Bitglass server for the server name.|de,es,ja
+user's account was locked. unlocked so he can sign into global protect with AD credentials|de,es,ja
+User was not receiving the email . Deleted the device information form 365 and also deleted the exchange account from iPhone after that restart the Iphone. Setup the exchange account on iphone again and user was able to received the email . |de,es,ja
+User was not able to login with new password , deleted the keychain |de,es,ja
+User was locked out, unlocked her and was able to connect to NOW-Mobbile|de,es,ja
+user resolved on own. Closing ticket |de,es,ja
+User reports issue is resolved - Resolving incident.|de,es,ja
+User remembered bitlocker pin|de,es,ja
+User re-started his device and visual voicemail is working as expected.|de,es,ja
+User never had his account setup properly. Set it up and user was able to get email synced |de,es,ja
+user needs to encrypt phone before able to get email.|de,es,ja
+User needed to create pin. Created pin and was able to connect |de,es,ja
+user logged in at the tech lounge and left |de,es,ja
+user left the TL after opening ticket|de,es,ja
+User is able to refresh the report. Issue is solved and asked to close the ticket. Closing the incident.|de,es,ja
+User inadvertently enabled voiceover feature, command+F5. - Turned it off in Accessibility area and confirmed the window went away.|de,es,ja
+User has had same battery issue over and over. Went ahead and swapped out the battery. Should be good now|de,es,ja
+User had to give it some time to update. Outbox eventually updated and user was able to see sent emails|de,es,ja
+User had contract extended. Uopdated expired date in AD|de,es,ja
+User confirmed upgrade completed successfully after re-trying.|de,es,ja
+user called support hotline helped user install software showed user how to set policy on emails|de,es,ja
+user called in reported cannot login to profile, check account in AD. account is locked, assist to unlocked. user verify issue has been resolved|de,es,ja
+User able to use Apple Mail app instead on iPhone. Emails coming through|de,es,ja
+Updated Outlook and signed back|de,es,ja
+Updated AD to expire on new end date of Aug 31st|de,es,ja
+unsuccessful domain - just had to add .servicenow.com and end of corpvpn|de,es,ja
+unpin the taskbar and pin again, able to launch app |de,es,ja
+unlocked user fromn securevpn synced token cleared pin user changed pin and was able to log to securevpn|de,es,ja
+Unlocked user from RSA console|de,es,ja
+Unlocked user account in active directory console.|de,es,ja
+unlocked the bitlocker and verfied it is working.|de,es,ja
+unlocked AD able to login password was not recently changed, nothing else to check at this time|de,es,ja
+Unlocked account, user confirmed successful login.|de,es,ja
+uninstalled cisco anyconnect and reinstalled. reboot machine.|de,es,ja
+uninstalled and reinstalled jabber|de,es,ja
+uninstalled and re-installed intell HD 5500 driver and display started working.|de,es,ja
+uninstall/reinstall adobe pro installed synaptics driver and BIOS update|de,es,ja
+uninstall/install wlan drivers able to connect to wireless installed BIOS update|de,es,ja
+unbind/rebind machine to domain, able to login to machine|de,es,ja
+typed FQDN - corpvpn.servicenow.com established connection to Corp VPN|de,es,ja
+turn off/on wifi screen sharing started working|de,es,ja
+Troubleshoot with user using Bomgar and verified that service is working.|de,es,ja
+tried battery reset, still not working, replaced machine|de,es,ja
+Toner will be replaced when empty.|de,es,ja
+Told user she must wait till the machine is finished updating. |de,es,ja
+To track the incident HRC0023172 raised in HR portal|de,es,ja
+Tried several steps to try and revive the advance settings to see what server it was pointed to All this was with no regard After trying several steps I was able to find an updated KB and noticed that all accounts where being seen as O365 accounts Once verified we followed the KB and manually setup the account Once done he is now showing up Bitglass|de,es,ja
+Time settings were incorrect, changed time server to usntp.corp.service-now.com over ethernet, connected to NOW-Corp successfully.|de,es,ja
+The user was able to get assistance from local tech for secure VPN. |de,es,ja
+The tranining functionality is working as expected.|de,es,ja
+the token was out of sync. resync token|de,es,ja
+The server was experiencing slowness, and is now functioning as expected.|de,es,ja
+The listing has been reviewed.  All admin accounts are valid and no changes are required|de,es,ja
+The issue resolved itself after a few restarts|de,es,ja
+The group has been removed from Exchange Console On Prem and will be recreated by Matthew in O365|de,es,ja
+The grant admin tool was needed in order to give the user the rights to install a software on his Macbook.|de,es,ja
+The given course has been removed from the learning plan.|de,es,ja
+The error was due to a DNS error after typing in the FQDN he was able to get logged in|de,es,ja
+The DNS needed resetting and now able to access the internet|de,es,ja
+The correct Calendar needs to be selected to sync meetings|de,es,ja
+the calendar settings wasn't checked to sync on the phone.|de,es,ja
+Thanks for changing the PIN Harry. I can login fine now.|de,es,ja
+Thank you for confirming , have a great day!|de,es,ja
+tested - able to call in my meeting room able to call in his own meeting room no issue found resolved|de,es,ja
+Test pages stuck in queue. - Replaced toner. - Removed/re-added printer. - Changed settings to allow printer to auto-select print tray. - Confirmed printer was printing as expected.|de,es,ja
+Tech Lounge: Machine black screen.|de,es,ja
+Tech Lounge: Keychain issues.|de,es,ja
+taken care in quarter end activities |de,es,ja
+Sync password by unbinding and re binding machine to AD|de,es,ja
+Switched user back to her Win7 machine.|de,es,ja
+Swapped hard drive and changed computer name. User is all set|de,es,ja
+Suspect DNS issue, changed server addresses for SMTP and LDAP from hostnames to IP's, issue resolved.|de,es,ja
+Surf started working better. He was going to old pages that were replaced with the new ESM Portal.|de,es,ja
+Successfully reset and confirmed by user.|de,es,ja
+Started remote session, entered admin creds, Tableau Update installed successfully.|de,es,ja
+software needed to be updated from the application itself and not from selfservice.|de,es,ja
+Sierra update was successful|de,es,ja
+Shutdown computer and reset nvram|de,es,ja
+showed user how to use self service to grant temp admin rights|de,es,ja
+showed user how to use Enterprise Connect rebinded user to the domain user changed password successfully|de,es,ja
+showed user how to update number in workday. and also added her number in AD|de,es,ja
+showed user how to request a corporate phone plan|de,es,ja
+Showed user how to remove them in OWA, also reinstalled ptools.|de,es,ja
+showed jennifer where to unlock landscape mode button|de,es,ja
+Showed how to install through Self Service|de,es,ja
+she will open a new ticket when the issue happens again|de,es,ja
+Sent an unlock command and seemed to have worked. Thanks for calling in, Sean!|de,es,ja
+Self Service was giving him an error when he tried to run the update. I did a re-enroll and it is working now. Sierra is downloading.|de,es,ja
+seems to be working now, we were stalled for about 10 min|de,es,ja
+RSA Account was locked up and had to resync|de,es,ja
+Route Partition on the line was missing. Also updated SAF and tested.|de,es,ja
+Resolving as a duplicate of REQ0103075.|de,es,ja
+resolved with the HI team. HI team takes care of instances.|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+Resolved by Caller|de,es,ja
+reset/reboot everything. unplug and replug for all devices.|de,es,ja
+reset users jabber jabbers was populating names after reset|de,es,ja
+reset password based on user's requirement|de,es,ja
+Reset Okta MFA for user, user setup Google Auth successfully.|de,es,ja
+Reset multi-factor authentication for caller|de,es,ja
+removed the thing that was stuck in the port.|de,es,ja
+removed the outlook app and setup email via the native app.|de,es,ja
+Removed the account and re added, all appears fine now.|de,es,ja
+Ran Splunk query and authentication was causing the lockouts. Removed Now-Mobile profile and readded with correct password.|de,es,ja
+Ran some windows/lenovo updates and told user if it happens again bring it back down and we will replace. This isnt the first time its happened |de,es,ja
+Quit/reinstalled WebEx PT, user was able to login and use in Outlook. Resolving incident.|de,es,ja
+Quit Outlook application, restarted computer, Outlook now responds normally.|de,es,ja
+provided user with recovery key |de,es,ja
+provided user with newly imaged machine and will re-image old one. Both machines have been updated in surf|de,es,ja
+Provided next steps|de,es,ja
+Provided network adapters to all CS agents who required it.|de,es,ja
+prompted user to restart machine user was able to login to his machine after reboot|de,es,ja
+Profile had to be reconfigured Jabber has been set backup EM profile had been relinked to the account|de,es,ja
